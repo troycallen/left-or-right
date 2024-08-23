@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 
+console.log("LeftOrRightGame.js is being executed");
+
 function LeftOrRightGame() {
   console.log("LeftOrRightGame component is rendering");
   const [score, setScore] = useState(0);
