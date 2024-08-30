@@ -3,7 +3,7 @@ import './App.css';
 import LeftOrRightGame from './components/LeftOrRightGame';
 
 function App() {
-  console.log("LeftOrRightGame:", LeftOrRightGame);
+  console.log("App is rendering, LeftOrRightGame:", LeftOrRightGame);
   return (
     <div className="App">
       <header className="App-header">
